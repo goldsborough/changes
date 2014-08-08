@@ -1,6 +1,7 @@
 # changes
 
 [![Build Status](https://secure.travis-ci.org/michaeljoseph/changes.png)](http://travis-ci.org/michaeljoseph/changes)
+[![Build status](https://ci.appveyor.com/api/projects/status/xy60i95qy7s83o91)](https://ci.appveyor.com/project/michaeljoseph/changes)
 [![Stories in Ready](https://badge.waffle.io/michaeljoseph/changes.png?label=ready)](https://waffle.io/michaeljoseph/changes)
 [![pypi version](https://badge.fury.io/py/changes.png)](http://badge.fury.io/py/changes)
 [![# of downloads](https://pypip.in/d/changes/badge.png)](https://crate.io/packages/changes?version=latest)
