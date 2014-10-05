@@ -1,7 +1,10 @@
 # [Changelog](https://github.com/michaeljoseph/changes/releases)
 
-## [0.5.0](https://github.com/michaeljoseph/changes/compare/0.4.0...0.5.0)
+## [0.6.0](https://github.com/michaeljoseph/changes/compare/0.5.0...0.6.0)
 
+* [9fbb6fe](https://github.com/michaeljoseph/changes/commit/9fbb6fe) Add wheel
+* [4fdcf03](https://github.com/michaeljoseph/changes/commit/4fdcf03) Add a list to a list
+* [e21ffe5](https://github.com/michaeljoseph/changes/commit/e21ffe5) Fix 0.5.0 changelog entry
 * [c3d75d4](https://github.com/michaeljoseph/changes/commit/c3d75d4) Add pytest options
 * [ccffd94](https://github.com/michaeljoseph/changes/commit/ccffd94) Actually bring config back
 * [07c9c07](https://github.com/michaeljoseph/changes/commit/07c9c07) Bring back config
@@ -35,6 +38,9 @@
 * [dde9538](https://github.com/michaeljoseph/changes/commit/dde9538) Coverage for all python version runs
 * [fc37056](https://github.com/michaeljoseph/changes/commit/fc37056) Send coverage results to scrutinizer-ci
 * [a5c3922](https://github.com/michaeljoseph/changes/commit/a5c3922) Add scrutinizer-ci badge
+
+## [0.5.0](https://github.com/michaeljoseph/changes/compare/0.4.0...0.5.0)
+
 * [8bb96b4](https://github.com/michaeljoseph/changes/commit/8bb96b4) 0.5.0
 * [6ffabf2](https://github.com/michaeljoseph/changes/commit/6ffabf2) Handle dry_run result appropriately
 * [14a2437](https://github.com/michaeljoseph/changes/commit/14a2437) Raise if failed
